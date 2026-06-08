@@ -90,3 +90,6 @@ Python EDA
 
 Machine Learning
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
